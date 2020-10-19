@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559600734 source:c:\users\kalin\desktop\cpp_programs\savetext\main.cpp
+	<iostream>
+	<fstream>
+
